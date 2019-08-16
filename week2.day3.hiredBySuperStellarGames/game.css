@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+.top{
+    text-align: center;
+    background-color: rgb(61, 61, 61, .5);
+    /* position: fixed;
+    top: 0; */
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    display: inline-block;
+} 
+li a{
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.Trailer{
+    border-style: solid;
+    border-color: orange;
+    text-align: center;
+    color: black;
+    overflow: hidden;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#trailerPic{
+    width: 100%;
+    height: 650px;
+    
+}
+#trailerText{
+    position: absolute;
+    left: 47.75%;
+    top: 95%;
+}
+h2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.newsContainer{
+    text-align: center;
+    border-style: solid;
+    border-color: orange;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.News{
+    border-style: solid;
+    border-color: rgb(61, 61, 61, .5);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Shop{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.Shop >div > img{
+    overflow: hidden;
+    float: left;
+    max-height: 250px;
+}
+h1{
+    text-align: center;
+}
+h3 a{
+    color: white;
+    overflow: hidden;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}

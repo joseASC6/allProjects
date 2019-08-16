@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    background-image: url("C:/Users/ASCStudent/Documents/week2.day2.layouts/totalCenter/assets/shoes.jpg")
+}
+.center_content{
+    text-align: center;
+    margin-top: 225px;
+    margin-bottom: 225px;
+}
+h3{
+    font-size: 35px;
+}
+div > img{
+    height: 72px;
+}

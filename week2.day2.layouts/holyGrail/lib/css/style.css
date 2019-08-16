@@ -1,0 +1,43 @@
+/* PREMADE */
+body{
+    margin: 0;
+}
+
+nav, footer{
+    background-color: paleturquoise;
+    height: 75px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav a, footer{
+    font-size: 2em;
+    color: #afafee;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav a:hover{
+    color:#739273;
+}
+/* END OF PREMADE */
+
+/* PUT YOUR CSS HERE */
+.main_container{
+
+}
+
+.main_content_container{
+
+}
+
+.main_content{
+
+}
+
+.flex_padding{
+
+}

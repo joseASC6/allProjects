@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+/*@font-face{
+    font-family: "Tangerine"
+    src: local(Tangerine);
+}*/
+header{
+    font-family: Tangerine;
+    font-size: 72px;
+    text-align: center;
+}
+h3{
+    font-size: 26px;
+    
+    text-align: center;
+}
+h3 + img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
+.watch_container{
+    background-color: #1a1818;
+    border-style:solid;
+    border-radius: 13px;
+    border-width: 2px;
+    padding: 16px;
+    border-color: #fdefa6;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: left;
+}
+.watch_container > img{
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+.text{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 26px;
+}
+.watch_description{
+    margin: 0px;
+    font-size: 16px;
+    
+}
+footer{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: left;
+    position: fixed;
+    bottom: 0;
+}

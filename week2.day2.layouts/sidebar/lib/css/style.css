@@ -1,0 +1,29 @@
+/* PREMADE */
+body{
+    margin:0;
+}
+/* END OF PREMADE */
+
+.main_container{
+
+}
+#wave{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.sidebar{
+    height: ;
+    width: 30%;
+    float: left;
+}
+
+.sidebar img{
+    width: 72px;
+}
+
+.scrolling_content{
+    padding: 26px;
+    text-align: center;
+}
