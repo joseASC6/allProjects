@@ -1,0 +1,15 @@
+body{
+    background-color: darkred;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    background-color: gray;
+}
+.blogContainer{
+    border: 5px;
+    margin: 20px;
+    border-style: solid;
+    border-color: gray;
+}
